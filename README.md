@@ -1,2 +1,7 @@
-# gesture-virtual-mouse
-![image](https://user-images.githubusercontent.com/82393033/207141016-d42cd299-ff8f-4730-8ebb-d60a319c9021.png)
+Instructions
+- at least 18 inches away from webcam is preffered
+- webcam should be centered
+- gestures contain palm(✋), single(☝️), and double(✌️)
+- palm ✋ is for cursor movement
+- single ☝️ is for left click
+- double ✌️ is for right click
